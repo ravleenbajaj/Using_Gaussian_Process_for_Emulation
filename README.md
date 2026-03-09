@@ -1,4 +1,4 @@
-This repository is under construction and will contain all code files for my Master's research project. For now, it only contains one of the simulated examples.
+**This repository is under construction and will contain all code files for my Master's research project. For now, it only contains one of the simulated examples.**
 
 # Modularised Bayesian Calibration with Gaussian Process Emulator
 
